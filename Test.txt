@@ -1,0 +1,46 @@
+Test
+
+How to map TABLE OF Varchar2 to groovy input type
+
+How to call oracle stored procedure which include user-defined type in groovy
+call stored procedure which are having user defined input type using groovy script
+Groovy SQL Oracle Array Function/Procedure Out Parameters Registration
+Groovy SQL Oracle Array Function/Procedure IN Parameters Registration
+
+Calling a database procedure with table input and output parameters from Java
+calling a database procedure with table input parameters from groovy
+
+How to call database procedure with parameter input table type using  Inparameters from groovy
+
+Passing arrays of record types between Oracle and groovy 
+Groovy- Passing Integer array to PLSQL
+Groovy- Passing string array to PLSQL
+
+Groovy:Passing Array to Oracle Stored Procedure
+
+
+http://viralpatel.net/blogs/java-passing-array-to-oracle-stored-procedure/
+
+https://www.mkyong.com/jdbc/jdbc-callablestatement-stored-procedure-cursor-example/
+
+https://stackoverflow.com/questions/34960206/groovy-sql-oracle-array-function-procedure-out-parameters-registration
+
+https://stackoverflow.com/questions/34960206/groovy-sql-oracle-array-function-procedure-out-parameters-registration
+
+
+https://www.developer.com/java/data/Converting-JDBC-Result-Sets-to-XML-3329001-2.htm
+
+http://www.java2s.com/Code/Java/Database-SQL-JDBC/ConvertaResultSettoXML.htm
+
+Kuch kuch sample java me mil raha hai per groovy me nahi hai
+
+NIFI URL
+
+https://stackoverflow.com/questions/37430915/how-to-capture-bulletin-messages-in-apache-nifi
+https://community.hortonworks.com/questions/91263/how-to-notify-user-if-there-is-any-failureerror-in.html
+https://pierrevillard.com/2017/05/13/monitoring-nifi-site2site-reporting-tasks/
+
+For autostop
+
+https://stackoverflow.com/questions/44153120/how-to-turn-off-nifi-processor-schedule
+
